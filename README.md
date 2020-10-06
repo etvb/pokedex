@@ -1,10 +1,15 @@
 # POKEDEX
 
+
+## Description.
+Build a pokedex, using the pokeapi.
+
 ## Built with 🛠️
 
 * HTML5
 * CSS
 * Javascript
+* [Pokeapi](https://pokeapi.co/)
 * Love
 
 ## Authors ✒️
